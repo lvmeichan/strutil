@@ -1,5 +1,5 @@
 package strutil
 
-func rand() string {
+func Rand() string {
 	return "strutil"
 }
